@@ -32,7 +32,7 @@ box "Provider ecosystem" #ProviderColor
 end box
 
 title
- **Compute Provider**
+ **Compute-Provider**
 end title
 autonumber 1
 == Initialization ==
